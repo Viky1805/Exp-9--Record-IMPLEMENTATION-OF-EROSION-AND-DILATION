@@ -1,6 +1,9 @@
 # Exp-9--Record-IMPLEMENTATION-OF-EROSION-AND-DILATION
 
 # Implementation of Erosion and Dilation Using OpenCV
+**Name: Vignesh S**
+**Register No: 212224110061**
+**Date : 02-09-2026**
 
 ## Aim
 
@@ -86,6 +89,10 @@ Compare the original, eroded, and dilated images.
 - Dilated image is displayed.
 - The thickness of the characters increases.
 - Object boundaries expand outward.
+
+  <img width="497" height="502" alt="image" src="https://github.com/user-attachments/assets/b2092a1d-982c-4162-9dea-3076d6c7b1c0" />
+  <img width="487" height="508" alt="image" src="https://github.com/user-attachments/assets/4a3120f4-4667-4737-8210-33c4bff56dbd" />
+  <img width="511" height="500" alt="image" src="https://github.com/user-attachments/assets/e01c6c4c-3cd4-4408-9fb4-14677044a4a0" />
 
 ## Result
 
